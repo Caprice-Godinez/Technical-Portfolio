@@ -17,4 +17,4 @@ These projects were completed as part of my coursework and personal learning, an
 ---
 
 # Reflection
-These projects provided a strong foundation in systems, networking, and security. They highlight my ability to **learn independently, document work thoroughly, and build cross-platform technical skills** - preparing me immediatley for roles in the Cybersecurity industry.
+These projects provided a strong foundation in systems, networking, and security. They highlight my ability to **learn independently, document work thoroughly, and build cross-platform technical skills** - preparing me for roles in the Cybersecurity industry.
