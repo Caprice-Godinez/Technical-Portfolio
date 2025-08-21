@@ -1,7 +1,7 @@
 # Technical Portfolio Overview
 
 This portfolio highlights both my academic and hands-on projects in **programming, cybersecurity, networking, and system administration**.
-These projects were completed as part of my coursework and personal learning, and helped me develop practical skills that I applied as an **Infrastructure and Security Intern** in an enterprise environment.
+These projects/labs were completed as part of my coursework and personal learning, and helped me develop technical skills that I applied during my roles as an **Infrastructure and Security Intern** in an enterprise environment.
 
 ---
 
@@ -10,8 +10,7 @@ These projects were completed as part of my coursework and personal learning, an
 
 - **[Ethical Hacking Labs](./ethical-hacking-labs/):** Hands-on labs using tools to simulate penetration testing and monitoring.
 
-- **[VLSM Networking Project](./vlsm-project/):** Semester project of designing and implementing subnetting for efficient IP addressing in enterprise networks.
-
+- **[VLSM Subnetting Project](./vlsm-project/):** Comprehensive project on variable-length subnet masks for network design and segmentation in multiple network topologies.
 - **[Linux System Administration](./linux-admin/):** Two comprehensive reviews demonstrating user management, services, security, and networking in Red Hat Enterprise Linux.
 
 ---
