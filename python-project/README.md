@@ -11,10 +11,13 @@ Successfully applied Python fundamentals to create a program that allows a user 
 - Step 5: Exit the program
 
 ## Tools / Skills Used
-- Tools: JetBrains PyCharm IDE
-- Skills: variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging
+- Tools: PyCharm IDE
+- Skills: variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging; version control; code development; testing
 
 ## Proof of Completion
 [Project Code](./Final_Project.py)
 
 [Documentation](./CIS156_Final_Project_Documentation.docx)
+
+## Reflection
+While creating this project, I strengthened my problem-solving skills, adaptability, and logical thinking by breaking down complex tasks into manageable steps. These skills directly transfer to real-world scenarios where troubleshooting, persistence, and clear organization/documentation are essential for success. 
