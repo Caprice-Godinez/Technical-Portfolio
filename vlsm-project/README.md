@@ -28,11 +28,11 @@ Maximized the number of host addresses at each level of subnetting for the follo
 ---
 
 ## Proof of Completion
-**[VLSM Documenation](./VLSM_Semester_Project_Redacted.docx)**
+**[VLSM Documenation](./VLSM_Project.docx)**
 
 ---
 
 ## Key Takeaway
-It was deeply challenging to manage my time and ensure manual accuracy. However, by manually subnetting and designing 11 unique network toplologies I developed **precision, mathematical reasoning, and a deeper understanding** of IP addressing.  This ensures that I can **maximize limited address space, design, and troubleshoot multiple** types of networks.
+It was deeply challenging to manage my time and ensure manual accuracy. However, by manually subnetting and designing 11 unique network toplologies I developed **precision, mathematical reasoning, and a deeper understanding** of IP addressing.  This ensures that I can **maximize limited address space, design, and troubleshoot** multiple types of networks.
 
 **[Return to Portfolio Overview](./..)**
