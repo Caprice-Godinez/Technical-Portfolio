@@ -1,4 +1,4 @@
-# Technical-Portfolio - Caprice G.
+# Technical Portfolio Overview
 
 This portfolio highlights both my academic and hands-on projects in **automation, cybersecurity, networking, and system administration**.
 These projects were completed as part of my coursework and personal learning, and helped me develop practical skills that I applied as an **Infrastructure and Security Intern** in an enterprise environment.
