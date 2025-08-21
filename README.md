@@ -8,7 +8,7 @@ These projects/labs were completed as part of my coursework and personal learnin
 # Contents
 - **[Python Programming Project](./python-project/):** Python script showcasing problem-solving and foundational coding/automation skills, applicable to both Linux and Windows environments.
 
-- **[Ethical Hacking Labs](./ethical-hacking-labs/):** Hands-on labs using tools to simulate penetration testing and monitoring.
+- **[Ethical Hacking Labs](./ethical-hacking-labs/):** Hands-on labs using tools to simulate penetration testing and monitoring with Kali Linux.
 
 - **[VLSM Subnetting Project](./vlsm-project/):** Comprehensive project on variable-length subnet masks for network design and segmentation in multiple network topologies.
 - **[Linux System Administration](./linux-admin/):** Two comprehensive reviews demonstrating user management, services, security, and networking in Red Hat Enterprise Linux.
