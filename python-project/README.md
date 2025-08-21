@@ -15,7 +15,7 @@ Developed a Python-based CLI music player demonstrating programming fundamentals
 ---
 
 ## Tools / Skills Used
-- **Tools:** PyCharm IDE
+- **Tools:** PyCharm IDE; Microsoft Word
 - **Skills:** variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging; version control; code development; testing
 
 ---
