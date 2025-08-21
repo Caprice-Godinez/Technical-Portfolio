@@ -15,4 +15,5 @@ Successfully applied Python fundamentals to create a program that allows a user 
 - Skills: variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging
 
 ## Proof of Completion
-[script](./python-project/script)
+[Project Code](./python-project/Final_Project.py)
+
