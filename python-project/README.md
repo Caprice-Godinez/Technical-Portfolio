@@ -28,6 +28,6 @@ Successfully applied Python fundamentals to create a program that allows a user 
 ---
 
 ## Reflection
-While creating this project, I strengthened my problem-solving skills, adaptability, and logical thinking by breaking down complex tasks into manageable steps. These skills directly transfer to real-world scenarios where troubleshooting, persistence, and clear organization/documentation are essential for success.
+While creating this project, I strengthened my problem-solving skills, adaptability, and logical thinking by breaking down complex tasks into manageable steps. I chose to use a list for the playlist, however, a dictionary is a more efficient solution to resolve duplication errors and efficient key-value storage. These skills directly transfer to real-world scenarios where troubleshooting, persistence, and clear organization/documentation are essential for success.
 
 [Return to Portfolio Overview](./..)
