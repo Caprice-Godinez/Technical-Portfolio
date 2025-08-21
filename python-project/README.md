@@ -23,7 +23,7 @@ Developed a Python-based CLI music player demonstrating programming fundamentals
 ## Proof of Completion
 **[Project Code](./Final_Project.py)**
 
-**[Documentation](./CIS156_Final_Project_Documentation.docx)**
+**[Documentation](./Final_Project_Documentation.docx)**
 
 ---
 
