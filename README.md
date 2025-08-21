@@ -6,7 +6,7 @@ These projects were completed as part of my coursework and personal learning, an
 ---
 
 # Contents
-- [Python Programming Project](./python-project/): Semester project script showcasing problem-solving and foundational coding/automation skills, applicable to both Linux and Windows environments.
+- [Python Programming Project](./python-project/): Developed a script showcasing problem-solving and foundational coding/automation skills, applicable to both Linux and Windows environments.
 
 - [Ethical Hacking Labs](./ethical-hacking-labs/): Hands-on labs using tools to simulate penetration testing and monitoring.
 
