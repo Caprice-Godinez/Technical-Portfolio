@@ -11,7 +11,7 @@ These projects/labs were completed as part of my coursework and personal learnin
 - **[Ethical Hacking Labs](./ethical-hacking-labs/):** Hands-on labs using tools to simulate penetration testing and monitoring with Kali Linux.
 
 - **[VLSM Subnetting Project](./vlsm-project/):** Comprehensive project on variable-length subnet masks for network design and segmentation in multiple network topologies.
-- **[Linux System Administration](./linux-admin/):** Two comprehensive reviews demonstrating user management, services, security, and networking in Red Hat Enterprise Linux.
+- **[Linux System Administration](./linux-admin/):** Two comprehensive labs demonstrating user management, services, security, and networking in Red Hat Enterprise Linux.
 
 ---
 
