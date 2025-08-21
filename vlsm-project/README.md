@@ -28,7 +28,7 @@ Maximized the number of host addresses at each level of subnetting for the follo
 ---
 
 ## Proof of Completion
-**![VLSM Documenation](./VLSM_Project.docx)**
+**[VLSM Documenation](./VLSM_Project.docx)**
 
 ---
 
