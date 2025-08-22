@@ -30,4 +30,4 @@ Developed a Python-based CLI music player demonstrating programming fundamentals
 ## Key Takeaway
 While creating this project, I strengthened my **problem-solving skills, adaptability, and logical thinking** by breaking down complex tasks into manageable steps. I chose a list to manage the playlist, but I recognized that a dictionary offered a more efficient solution to handle duplication errors and enable faster key-value lookups. These skills directly transfer to real-world scenarios where **troubleshooting, persistence, and clear organization/documentation** are essential for success.
 
-**[Return to Portfolio Overview](./../README.md)**
+**[Return to Ethical Hacking Overview](./../README.md)**
