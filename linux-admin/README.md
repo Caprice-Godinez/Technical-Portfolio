@@ -7,9 +7,8 @@
 ---
 
 ## Contents
-**[Red Hat Sytem Administration I](./Comprehensive_Review_1/README.md)**
-
-**[Red Hat System Administration II](./Comprehensive_Review_2/README.md)**
+- **[Red Hat Sytem Administration I](./Comprehensive_Review_1/README.md)**
+- **[Red Hat System Administration II](./Comprehensive_Review_2/README.md)**
 
 ---
 
