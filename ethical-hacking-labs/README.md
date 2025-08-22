@@ -19,7 +19,7 @@
 ---
 
 ## Contents
-- **[DNS Footprinting](./DNSFootprinting/README.md)**
+- **[DNS Footprinting](./DNS_Footprinting/README.md)**
 - **[Recon with Nmap, Zenmap, and Masscan](./)**
 - **[Vulnerability Scanning with OpenVAS](./)**
 - **[Evading IDS](./)**
