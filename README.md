@@ -6,7 +6,7 @@ These projects/labs were completed as part of my coursework and personal learnin
 ---
 
 # Contents
-- **[Python Programming Project](./python-project/README.md):** Python script showcasing problem-solving and foundational coding/automation skills, applicable to both Linux and Windows environments.
+- **[Python Project](./python-project/README.md):** Python script showcasing problem-solving and foundational coding/automation skills, applicable to both Linux and Windows environments.
 
 - **[Ethical Hacking Labs](./ethical-hacking-labs/README.md):** Hands-on labs using tools to simulate penetration testing and monitoring with Kali Linux.
 
