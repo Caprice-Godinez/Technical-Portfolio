@@ -7,9 +7,9 @@
 ---
 
 ## Contents
-**[Project Code](./Final_Project.py)**
+**[Red Hat Sytem Administration I](./Final_Project.py)**
 
-**[Documentation](./CIS156_Final_Project_Documentation.docx)**
+**[Red Hat System Administration II](./CIS156_Final_Project_Documentation.docx)**
 
 ---
 
