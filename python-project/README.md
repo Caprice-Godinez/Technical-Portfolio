@@ -1,4 +1,4 @@
-# Python Project: Make a Playlist
+# Make a Playlist
 
 ## Objective
 Developed a Python-based CLI music player demonstrating programming fundamentals.
