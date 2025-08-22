@@ -19,13 +19,19 @@
 ---
 
 ## Contents
-- **[DNS Footprinting](./DNS_Footprinting/README.md)**
-- **[Recon with Nmap, Zenmap, and Masscan](./Recon_with_Nmap_Zenmap_and_Masscan/README.md)**
-- **[Vulnerability Scanning with OpenVAS](./Vulnerability_Scanning_with_OpenVAS/README.md)**
-- **[Evading IDS](./Evading_IDS/README.md)**
-- **[Metasploit Framework and Automating Social Engineering](./Metasploit_Framework_and_Automating_Social_Engineering/README.md)**
-- **[Client Side Exploits, ARP Spoofing, and MITM Attacks](./Client_Side_Exploits_ARP_Spoofing_and_MITM_Attacks/README.md)**
-- **[VNC as a Backdoor and Creating/Installing SSL Certificates](./VNC_as_a_Backdoor_and_Creating_and_Installing_SSL_Certificates/README.md)**
+**[DNS Footprinting](./DNS_Footprinting/README.md)**
+
+**[Recon with Nmap, Zenmap, and Masscan](./Recon_with_Nmap_Zenmap_and_Masscan/README.md)**
+
+**[Vulnerability Scanning with OpenVAS](./Vulnerability_Scanning_with_OpenVAS/README.md)**
+
+**[Evading IDS](./Evading_IDS/README.md)**
+
+**[Metasploit Framework and Automating Social Engineering](./Metasploit_Framework_and_Automating_Social_Engineering/README.md)**
+
+**[Client Side Exploits, ARP Spoofing, and MITM Attacks](./Client_Side_Exploits_ARP_Spoofing_and_MITM_Attacks/README.md)**
+
+**[VNC as a Backdoor and Creating/Installing SSL Certificates](./VNC_as_a_Backdoor_and_Creating_and_Installing_SSL_Certificates/README.md)**
 
 ---
 
