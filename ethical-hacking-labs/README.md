@@ -24,7 +24,7 @@
 - **[Vulnerability Scanning with OpenVAS](./)**
 - **[Evading IDS](./)**
 - **[Metasploit Framework and Automating Social Engineering](./)**
-- **[Client Side Exploits: ARP Spoofing and MITM Attacks](./)**
+- **[Client Side Exploits, ARP Spoofing, and MITM Attacks](./)**
 - **[VNC as a Backdoor and Creating/Installing SSL Certificates](./)**
 
 ---
