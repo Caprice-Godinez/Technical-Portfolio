@@ -47,7 +47,7 @@ Apache SSL File Configuration/SSL Cert Testing:
 
 ## Tools / Skills Used
 - **Tools:** TightVNC; OpenSUSE; Kali Linux
-- **Skills:** File/Directory Management; X.509 SSL Certificates; Web Server (Apache) SSL Certification Configuration
+- **Skills:** file/directory management; X.509 SSL certificates; web server (Apache) SSL certification configuration
 
 ---
 
