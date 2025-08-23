@@ -1,7 +1,7 @@
 # Make a Playlist
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+- Developed a Python-based CLI music player demonstrating programming fundamentals.
 
 ---
 
