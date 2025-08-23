@@ -1,7 +1,10 @@
-# TITLE
+# Reconnaissance with Nmap/Zenmap and Masscan
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+Toplology: OpenSUSE, Security Onion, pfSense, OWASP BWA, and Kali Linux
+
+Perform basic network port reconnaissance and scanning with Nmap, Zenmap, and Masscan
+
 
 ---
 
@@ -21,9 +24,7 @@ Developed a Python-based CLI music player demonstrating programming fundamentals
 ---
 
 ## Proof of Completion
-**[Project Code](./Final_Project.py)**
-
-**[Documentation](./Final_Project_Documentation.docx)**
+**[Documentation](./Documentation)**
 
 ---
 
@@ -31,5 +32,3 @@ Developed a Python-based CLI music player demonstrating programming fundamentals
 While creating this project, I strengthened my **problem-solving skills, adaptability, and logical thinking** by breaking down complex tasks into manageable steps. I chose a list to manage the playlist, but I recognized that a dictionary offered a more efficient solution to handle duplication errors and enable faster key-value lookups. These skills directly transfer to real-world scenarios where **troubleshooting, persistence, and clear organization/documentation** are essential for success.
 
 **[Return to Ethical Hacking Overview](./../README.md)**
-
-
