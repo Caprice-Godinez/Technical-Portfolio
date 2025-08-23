@@ -33,6 +33,6 @@ Maximized the number of host addresses at each level of subnetting for the follo
 ---
 
 ## Key Takeaway
-It was deeply challenging to manage my time and ensure manual accuracy. However, by manually subnetting and designing 11 unique network toplologies I developed **precision, mathematical reasoning, and a deeper understanding** of IP addressing.  This ensures that I can **maximize limited address space, design, and troubleshoot** multiple types of networks.
+By performing subnetting calculations by hand, I strengthened my **attention to detail and critical thinking skills**. This process required **persistence and accuracy** under resource/time constraints. These skills directly transfer to real-world troubleshooting and designing efficient/secure network solutions.
 
 **[Return to Portfolio Overview](./../README.md)**
