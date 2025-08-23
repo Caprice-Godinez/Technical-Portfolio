@@ -31,7 +31,7 @@ Topology: OpenSuse, pfSense, and Kali
 ---
 
 ## Proof of Completion
-**[Documentation](./Documents)**
+**[Documentation](./Documentation)**
 
 ---
 
