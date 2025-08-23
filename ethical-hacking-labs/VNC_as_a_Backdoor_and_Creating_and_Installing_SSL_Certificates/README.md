@@ -1,8 +1,10 @@
-# TITLE
+#  VNC as a Backdoor and Creating and Installing SSL Certificates
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+Topology: OpenSUSE, pfSense, and Kali
 
+- Utilize TightVNC to create a reverse connection through a firewall.
+- Create a self-signed X.509 certificate and install it into a Linux web server.
 ---
 
 ## Overview / Directions
