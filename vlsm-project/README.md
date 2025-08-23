@@ -1,7 +1,7 @@
 # VLSM Project
 
 ## Objective
-Design an appropriate VLSM addressing scheme for 11 network topologies by hand.
+- Design an appropriate VLSM addressing scheme for 11 network topologies by hand.
 
 ---
 
