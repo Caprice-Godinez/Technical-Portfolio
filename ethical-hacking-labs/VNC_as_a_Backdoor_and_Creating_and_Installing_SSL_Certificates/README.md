@@ -17,7 +17,7 @@ Topology: OpenSUSE, pfSense, and Kali
 5. Switched back to the OpenSUSE Terminal and navigated to the /usr/bin directory and established a listener connection outside of the firewall with ' ./x11vnc–connect IP
    address:5500'.
 
-**Kali**
+**Kali Linux**
 
 Self-Signed Cert:
 
