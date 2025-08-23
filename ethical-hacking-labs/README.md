@@ -30,6 +30,6 @@
 ---
 
 ## Key Takeaway
-While creating this project, I strengthened my problem-solving skills, adaptability, and logical thinking by breaking down complex tasks into manageable steps. These skills directly transfer to real-world scenarios where troubleshooting, persistence, and clear organization/documentation are essential for success.
+These labs gave me more than just technical practice, they taught me to approach problems the way a threat actor would. By moving through everything from reconnaissance to system exploitation, I built not only hands-on skills but also a **mindset for anticipating and mitigating threats**. That shift in perspective is what makes me **stronger in both offensive and defensive security** work.
 
 **[Return to Portfolio Overview](./../README.md)**
