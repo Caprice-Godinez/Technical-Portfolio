@@ -50,7 +50,7 @@ Apache SSL File Configuration/SSL Cert Testing:
 
 4. Changed the SSLCertificateFile and SSLCertificateKeyFile paths >  SSLCertificateFile /etc/ssl/certs/ca.crt SSLCertificateKeyFile /etc/ssl/private/ca.key
 
-5. Saved the fie. Exited Mousepad.
+5. Saved the file. Exited Mousepad.
 
 6. Changed to the sites-enabled directory >  cd /etc/apache2/sites-enabled/
 
@@ -76,6 +76,6 @@ Apache SSL File Configuration/SSL Cert Testing:
 ---
 
 ## Key Takeaway
-This lab strengthened my **technical adaptability and problem-solving** skills by establishing a secure reverse VNC connection and manually creating and configuring SSL certificates on a Linux web server. Navigating multi-step processes across TightVNC, OpenSUSE, Kali, and Apache enhanced my **persistence, analytical reasoning, and foresight** in planning secure configurations. These abilities transfer directly to real-world scenarios where secure remote access and encrypted communications are critical for system integrity.
+This lab strengthened my **technical adaptability and problem-solving** skills by establishing a secure reverse VNC connection and manually creating and configuring SSL certificates on a Linux web server. Navigating multi-step processes across TightVNC, OpenSUSE, Kali, and Apache enhanced my **persistence, analytical reasoning, and foresight** in planning secure configurations. These abilities transfer directly to real-world scenarios where **secure remote access and encrypted communications** are critical for system integrity.
 
 **[Return to Ethical Hacking Overview](./../README.md)**
