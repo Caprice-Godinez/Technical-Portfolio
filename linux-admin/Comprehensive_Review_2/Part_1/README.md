@@ -17,7 +17,7 @@
 ---
 
 ## Proof of Completion
-**[Documentation](./../Documentation/Comprehensive_Review_Parts_1_2_4.JPG)**
+**[Documentation](./../Documentation/Comprehensive_Review_Parts_1_2_4.PNG)**
 
 ---
 
