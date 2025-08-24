@@ -1,7 +1,7 @@
 # System Administrator I
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+- Demonstrate knowledge and skills learned in Red Hat System Administration I in a 5-part lab environment.
 
 ---
 
