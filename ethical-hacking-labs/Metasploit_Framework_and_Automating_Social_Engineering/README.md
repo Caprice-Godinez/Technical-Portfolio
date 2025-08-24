@@ -1,7 +1,7 @@
-# TITLE
+#  Metasploit Framework and Armitage / Automating Social Engineering
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+
 
 ---
 
