@@ -5,7 +5,6 @@ Toplology: OpenSUSE, Security Onion, pfSense, OWASP BWA, and Kali
 
 - Perform basic network port reconnaissance and scanning with Nmap, Zenmap, and Masscan with Kali Linux.
 
-
 ---
 
 ## Overview / Directions
