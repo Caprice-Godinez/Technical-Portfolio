@@ -1,33 +1,37 @@
 # System Administrator II
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+- Demonstrate knowledge and skills learned in Red Hat System Administration II in a 4-part lab environment.
 
 ---
 
-## Overview / Directions
-- **Step 1:** Choose to add any song to a playlist
-- **Step 2:** Choose to remove any song from the playlist
-- **Step 3:** Display the current songs in the playlist
-- **Step 4:** Simulate a song to be played from the playlist
-- **Step 5:** Exit the program
+## Overview
+- Improve Command‐line Productivity
+- Schedule Future Tasks
+- Analyze and Store Logs
+- Archive and Transfer Files
+- Tune System Performance
+- Manage SELinux Security
+- Manage Basic Storage
+- Manage Storage Stack
+- Access Network‐Attached Storage
+- Control the Boot Process
+- Manage Network Security
+- Install Red Hat Enterprise Linux
+- Run Containers
 
 ---
 
-## Tools / Skills Used
-- **Tools:** PyCharm IDE; Microsoft Word
-- **Skills:** variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging; version control; code development; testing
-
----
-
-## Proof of Completion
-**[Project Code](./Final_Project.py)**
-
-**[Documentation](./Final_Project_Documentation.docx)**
+## Contents
+- **[Part 1](./Part_1/README.md)**
+- **[Part 2](./Part_2/README.md)**
+- **[Part 3](./Part_3/README.md)**
+- **[Part 4](./Part_4/README.md)**
 
 ---
 
 ## Key Takeaway
-While creating this project, I strengthened my **problem-solving skills, adaptability, and logical thinking** by breaking down complex tasks into manageable steps. I chose a list to manage the playlist, but I recognized that a dictionary offered a more efficient solution to handle duplication errors and enable faster key-value lookups. These skills directly transfer to real-world scenarios where **troubleshooting, persistence, and clear organization/documentation** are essential for success.
+This lab reinforced advanced Red Hat System Administration II skills, emphasizing **efficient command-line operations, task automation, log management, file archiving, and system performance tuning**. It also covered **critical enterprise administration competencies such as SELinux security, storage management, network configuration, boot control, and containerization**—preparing me for real-world system administration tasks and the RHCSA certification.
 
 **[Return to RHEL Overview](./../README.md)**
+
