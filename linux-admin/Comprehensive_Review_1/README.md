@@ -24,11 +24,11 @@
 ---
 
 ## Contents
-- **[Part 1](./Final_Project.py)**
-- **[Part 2](./Final_Project.py)**
-- **[Part 3](./Final_Project.py)**
-- **[Part 4](./Final_Project.py)**
-- **[Part 5](./Final_Project.py)**
+- **[Part 1](./Part_1/README.md)**
+- **[Part 2](./Part_2/README.md)**
+- **[Part 3](./Part_3/README.md)**
+- **[Part 4](./Part_4/README.md)**
+- **[Part 5](./Part_5/README.md)**
 
 ---
 
