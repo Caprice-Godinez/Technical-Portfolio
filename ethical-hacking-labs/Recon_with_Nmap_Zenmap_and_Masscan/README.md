@@ -24,7 +24,7 @@ Toplology: OpenSUSE, Security Onion, pfSense, OWASP BWA, and Kali
 
  **Masscan**
 
-1. Viewed the man paged for Masscan and reviewed the Nmap-like features.
+1. Viewed the man pages for Masscan and reviewed the Nmap-like features.
 
 2. Conducted a simple scan of the LAN netork that only scans for devices with port 80 open, using a TCP SYN scan technique.
 
