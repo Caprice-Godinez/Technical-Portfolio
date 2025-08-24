@@ -1,35 +1,48 @@
 #  Metasploit Framework and Armitage / Automating Social Engineering
 
 ## Objective
+Topology: OWASP BWA, pfSense, Kali
 
+- Utilize the Metasploit penetration testing framework and execute attacks in Armitage.
+- Test a Social Engineering Toolkit (SET) to perform reconnaissance against a target. 
 
 ---
 
 ## Overview / Directions
-- **Step 1:** Choose to add any song to a playlist
-- **Step 2:** Choose to remove any song from the playlist
-- **Step 3:** Display the current songs in the playlist
-- **Step 4:** Simulate a song to be played from the playlist
-- **Step 5:** Exit the program
+**Metasploit/Armitage**
+
+1. Metasploit Framework: Initialized the database, explored console commands, and reviewed available exploits/payloads. Practiced using Netcat inside Metasploit for service interaction.
+
+2. WMAP Vulnerability Scanning: Loaded the WMAP module, added OWASP Mutillidae as a target, and ran scans to identify web application vulnerabilities.
+
+3. Exploitation & Payloads: Configured and executed a TikiWiki CMS remote code execution exploit with a reverse PHP payload, establishing a shell session on the target.
+
+4. Armitage (GUI for Metasploit): Used Nmap scanning to enumerate hosts, configured attacks via the graphical interface, and re-executed the TikiWiki exploit to gain shell access.
+
+**SET**
+
+1. Social Engineering Toolkit (SET): Launched SET on Kali Linux and configured a credential harvester attack using a cloned Google login page.
+
+2. Configuration: Modified SET parameters (set.config) to define redirect settings and harvesting URLs.
+
+3. Execution & Testing: From a victim machine (OpenSUSE), accessed the fake login page, entered test credentials, and confirmed successful capture of username and password.
+
+4. Reporting: Generated and reviewed the SET report, verifying stored credential data.
 
 ---
 
 ## Tools / Skills Used
-- **Tools:** PyCharm IDE; Microsoft Word
-- **Skills:** variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging; version control; code development; testing
+- **Tools:** Armitage; Kali Linux; SET; Nmap
+- **Skills:** Metasploit; social engineering; phishing; automation; analytical thinking
 
 ---
 
 ## Proof of Completion
-**[Project Code](./Final_Project.py)**
-
-**[Documentation](./Final_Project_Documentation.docx)**
+**[Documentation](./Documentation)**
 
 ---
 
 ## Key Takeaway
-While creating this project, I strengthened my **problem-solving skills, adaptability, and logical thinking** by breaking down complex tasks into manageable steps. I chose a list to manage the playlist, but I recognized that a dictionary offered a more efficient solution to handle duplication errors and enable faster key-value lookups. These skills directly transfer to real-world scenarios where **troubleshooting, persistence, and clear organization/documentation** are essential for success.
+Gained hands-on experience with both **network/system exploitation (Metasploit)** and **social engineering attacks (SET)**, highlighting how technical vulnerabilities and human factors intersect in real-world security threats.
 
 **[Return to Ethical Hacking Overview](./../README.md)**
-
-
