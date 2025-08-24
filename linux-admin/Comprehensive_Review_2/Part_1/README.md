@@ -35,4 +35,4 @@
 ## Key Takeaway
 This lab reinforced practical Linux **file management and text processing** skills, demonstrating proficiency in **creating, editing, and linking files** using the command line. It also highlighted the ability to **organize and capture system information** efficiently, showcasing attention to detail and mastery of essential Linux administration techniques.
 
-**[Return to System Administrator I Overview](./../README.md)**
+**[Return to System Administrator II Overview](./../README.md)**
