@@ -1,32 +1,31 @@
-# Part 3
+# Part 5
 
 ## Objective
-- Configure, secure, and use the SSH service to access a remote machine, and manage packages.
+- Mount a file system and locate files based on different criteria.
 
 ---
 
 ## Overview / Directions
-- Generated SSH keys for the student user. Did not protect the private key with a passphrase. Saved the private and public keys as the /home/student/.ssh/review3_key and /home/student/.ssh/review3_key.pub files respectively.
-- Configured the student user on servera to accept logins that are authenticated by the review3_key SSH key pair. Ensured the student user on serverb should not be able to log in to servera by using SSH without entering a password.
-- On serverb, configured the sshd service to prevent the root user from logging in.
-- On serverb, configured the sshd service to prevent users from using their passwords to log in. Verified users should still be able to authenticate logins by using an SSH key pair.
-- Installed the zsh package on the serverb machine.
-- Set the time zone of serverb to Asia/Kolkata.
+- Identifed the unmounted block device that contains an XFS file system on the serverb machine. Mounted the block device on the /review5-disk directory.
+- Located the review5-path file. Created the /review5-disk/review5-path.txt file that contains a single line with the absolute path to the review5-path file.
+- Located all the files that the contractor1 user and the contractor group own. Ensured the files must have the 640 octal permissions. Saved the list of these files in the /review5-disk/review5-perms.txt file.
+- Located all files with a size of 100 bytes. Saved the absolute paths of these files in the /review5- disk/review5-size.txt file.
+- Logged in to the serverb machine as the student user and switched to the root user.
 
 ---
 
 ## Tools / Skills Used
 - **Tools:** RHEL
-- **Skills:** CLI; SSH key generation; service management; package management; time zone configuration; secure SSH server configuration; key-based authentication configuration
+- **Skills:** CLI; device mounting; file system navigation; root privilege; file ownership/permissions; filtering file size; writing to text files
 
 ---
 
 ## Proof of Completion
-**[Documentation](./../Documentation/Comprehensive_Review_Part_3.PNG)**
+**[Documentation](./../Documentation/Comprehensive_Review_Part_5.PNG)**
 
 ---
 
 ## Key Takeaway
-This lab reinforced **secure remote access practices** in Linux, emphasizing **SSH key-based authentication and hardened server configurations**. It also highlighted essential system administration tasks, including **package installation and time zone management**, critical for maintaining secure and properly configured Linux environments.
+This lab emphasized practical Linux **file system management** and administration skills, including **mounting file systems, querying and recording file attributes, and handling permissions and ownership**. It reinforced the ability to organize, filter, and document critical file system information efficiently while **operating with appropriate privileges**.
 
 **[Return to System Administrator I Overview](./../README.md)**
