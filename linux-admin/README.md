@@ -3,16 +3,17 @@
 ---
 
 ## Overview
+- Completed Red Hat System Administration I and II comprehensive labs, covering all core competencies for the Red Hat Certified System Administrator (RHCSA) certification.
 
 ---
 
 ## Contents
-- **[Red Hat Sytem Administration I](./Comprehensive_Review_1/README.md)**
-- **[Red Hat System Administration II](./Comprehensive_Review_2/README.md)**
+- **[Red Hat Sytem Administrator I](./Comprehensive_Review_1/README.md)**
+- **[Red Hat System Administrator II](./Comprehensive_Review_2/README.md)**
 
 ---
 
 ## Key Takeaway
-While creating this project, I strengthened my problem-solving skills, adaptability, and logical thinking by breaking down complex tasks into manageable steps. These skills directly transfer to real-world scenarios where troubleshooting, persistence, and clear organization/documentation are essential for success.
+Completing these labs provided a structured progression through the **core competencies of the RHCSA certification**, reinforcing both foundational and advanced Linux system administration skills. Beyond mastering commands in isolation, the labs emphasized real-world application — configuring users and permissions, managing storage, automating tasks, securing services, and troubleshooting system-level issues. The experience not only built confidence in Red Hat–based environments but also deepened my understanding of how Linux administration/general system administration concepts underpin enterprise IT operations and security.
 
 **[Return to Portfolio Overview](./../README.md)**
