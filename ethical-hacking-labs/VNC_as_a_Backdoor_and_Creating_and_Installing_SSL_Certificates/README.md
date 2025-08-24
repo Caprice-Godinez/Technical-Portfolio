@@ -1,4 +1,4 @@
-#  VNC as a Backdoor and Creating/Installing SSL Certificates
+#  VNC as a Backdoor and Creating / Installing SSL Certificates
 
 ## Objective
 Topology: OpenSUSE, pfSense, and Kali
