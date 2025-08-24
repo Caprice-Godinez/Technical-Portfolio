@@ -1,35 +1,36 @@
-# TITLE
+# Evading IDS
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+Topology: OpenSUSE, Security Onion, pfSense, OWASP BWA, and Kali
+
+- Test different methods to thwart IDS detection with network monitoring applications, Nmap scans, low MTU scan, decoy scan, and spoofed MAC scan.
 
 ---
 
 ## Overview / Directions
-- **Step 1:** Choose to add any song to a playlist
-- **Step 2:** Choose to remove any song from the playlist
-- **Step 3:** Display the current songs in the playlist
-- **Step 4:** Simulate a song to be played from the playlist
-- **Step 5:** Exit the program
+
+1. Initialized Security Onion monitoring tools (Squert, Snorby, Sguil) to observe and analyze intrusion detection alerts.
+
+2. Ran a fragmented Nmap scan from Kali Linux and verified detection across multiple IDS interfaces.
+
+3. Conducted a decoy scan with spoofed IPs, confirmed IDS detection of both legitimate and decoy traffic.
+
+4. Tested a spoofed MAC scan and compared how each monitoring tool (Squert, Snorby, Sguil) reported the intrusion.
 
 ---
 
 ## Tools / Skills Used
-- **Tools:** PyCharm IDE; Microsoft Word
-- **Skills:** variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging; version control; code development; testing
+- **Tools:** Kali Linux; Squert; Snorby, Sguil; Nmap
+- **Skills:** IDS analysis; fragmented scans; decoy scans; MAC spoofing; attacker evasion tactics vs. defender visibility
 
 ---
 
 ## Proof of Completion
-**[Project Code](./Final_Project.py)**
-
-**[Documentation](./Final_Project_Documentation.docx)**
+**[Documentation](./Documentation)**
 
 ---
 
 ## Key Takeaway
-While creating this project, I strengthened my **problem-solving skills, adaptability, and logical thinking** by breaking down complex tasks into manageable steps. I chose a list to manage the playlist, but I recognized that a dictionary offered a more efficient solution to handle duplication errors and enable faster key-value lookups. These skills directly transfer to real-world scenarios where **troubleshooting, persistence, and clear organization/documentation** are essential for success.
+This lab strengthened my ability to **think like both attacker and defender** by testing stealthy Nmap techniques and verifying IDS detection, reinforcing skills in **network monitoring, adversary simulation, and incident response visibility**.
 
 **[Return to Ethical Hacking Overview](./../README.md)**
-
-
