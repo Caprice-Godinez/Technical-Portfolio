@@ -1,4 +1,4 @@
-# Reconnaissance with Nmap/Zenmap and Masscan
+# Reconnaissance with Nmap / Zenmap and Masscan
 
 ## Objective
 Toplology: OpenSUSE, Security Onion, pfSense, OWASP BWA, and Kali
