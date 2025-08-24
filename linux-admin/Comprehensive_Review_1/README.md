@@ -6,14 +6,29 @@
 ---
 
 ## Overview
-
+- Get Started with Red Hat Enterprise Linux
+- Access the Command Line
+- Manage Files from the Command Line
+- Get Help in Red Hat Enterprise Linux
+- Create, View, and Edit Text Files
+- Manage Local Users and Groups
+- Control Access to Files
+- Monitor and Manage Linux Processes
+- Control Services and Daemons
+- Configure and Secure SSH
+- Manage Networking
+- Install and Update Software Packages
+- Access Linux File Systems
+- Analyze Servers, and Get Support
 
 ---
 
 ## Contents
-**[Project Code](./Final_Project.py)**
-
-**[Documentation](./Final_Project_Documentation.docx)**
+- **[Part 1](./Final_Project.py)**
+- **[Part 2](./Final_Project.py)**
+- **[Part 3](./Final_Project.py)**
+- **[Part 4](./Final_Project.py)**
+- **[Part 5](./Final_Project.py)**
 
 ---
 
