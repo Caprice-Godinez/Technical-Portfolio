@@ -1,7 +1,7 @@
-# TITLE
+# Part 1
 
 ## Objective
-Developed a Python-based CLI music player demonstrating programming fundamentals.
+- Manage files, redirect a specific set of lines from a text file to another file, and edit the text files.
 
 ---
 
@@ -15,14 +15,12 @@ Developed a Python-based CLI music player demonstrating programming fundamentals
 ---
 
 ## Tools / Skills Used
-- **Tools:** PyCharm IDE; Microsoft Word
+- **Tools:** RHEL
 - **Skills:** variables; data types; loops; conditionals; functions; lists; dictionaries; sets; tuples; exception handling; error management; debugging; version control; code development; testing
 
 ---
 
 ## Proof of Completion
-**[Project Code](./Final_Project.py)**
-
 **[Documentation](./Final_Project_Documentation.docx)**
 
 ---
