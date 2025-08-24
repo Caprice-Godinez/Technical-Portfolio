@@ -33,6 +33,6 @@
 ---
 
 ## Key Takeaway
-While creating this project, I strengthened my **problem-solving skills, adaptability, and logical thinking** by breaking down complex tasks into manageable steps. I chose a list to manage the playlist, but I recognized that a dictionary offered a more efficient solution to handle duplication errors and enable faster key-value lookups. These skills directly transfer to real-world scenarios where **troubleshooting, persistence, and clear organization/documentation** are essential for success.
+This lab allowed me to apply foundational Red Hat System Administration I skills in a comprehensive, hands-on environment. I gained practical experience managing users, files, processes, services, networking, and software on RHEL systems, while also practicing secure remote access and troubleshooting. Completing all five lab sections strengthened my confidence in navigating, configuring, and maintaining Linux systems, demonstrating readiness for real-world system administration tasks and the RHCSA core competencies.
 
 **[Return to RHEL Overview](./../README.md)**
