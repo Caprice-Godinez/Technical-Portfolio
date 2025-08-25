@@ -6,7 +6,7 @@
 ---
 
 ## Overview / Directions
-- On serverb, configured the podmgr user with redhat as the password and set up the appropriate tools for the podmgr user to manage the containers for this lab. Configured the registry.lab.example.com as the remote registry. Used admin as the user and redhat321 as the password to authenticate. Use the /tmp/review4/registry.conf file to configure the registry.
+- On serverb, configured the podmgr user with redhat as the password and set up the appropriate tools for the podmgr user to manage the containers for this lab. Configured the registry.lab.example.com as the remote registry. Used admin as the user and redhat321 as the password to authenticate. Used the /tmp/review4/registry.conf file to configure the registry.
 - The /tmp/review4/container-dev directory contains two directories with development files for the containers in this lab. Copied the two directories under the /tmp/review4/container-dev directory to the podmgr home directory. Configured the /home/podmgr/storage/database subdirectory so that I can use it as persistent storage for a
 container.
 - Created the production DNS-enabled container network. Used the 10.81.0.0/16 subnet and 10.81.0.1 as the gateway. Used this container network for the containers that I create in this lab.
