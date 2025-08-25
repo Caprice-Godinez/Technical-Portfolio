@@ -3,6 +3,8 @@
 ---
 
 ## Overview
+**DISCLAIMER**: Conducted in a lab environment. Real systems were not targeted/exploited.
+
 7 hands-on simulated labs that demonstrate key ethical hacking concepts such as:
 - Footprinting
 - Reconnaissance
