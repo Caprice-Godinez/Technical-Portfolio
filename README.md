@@ -1,7 +1,7 @@
 # Technical Portfolio Overview
 
 This portfolio highlights both my academic and hands-on projects in **cybersecurity, system administration, networking, and programming**.
-These projects/labs were completed as part of my coursework and personal learning, and helped me develop technical skills that I applied during my roles as an **Infrastructure and Security Intern** in an enterprise environment.
+These projects/labs were completed as part of my coursework and personal learning, and helped me develop technical skills that I applied during both of my roles as an **Infrastructure and Security Intern** in an enterprise environment.
 
 ---
 
