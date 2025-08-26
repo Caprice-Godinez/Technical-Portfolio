@@ -30,7 +30,7 @@ container.
 
 ## Tools / Skills Used
 - **Tools:** RHEL
-- **Skills:** persistent storage for containerized applications; rootless detached container creation/management; host/containerized service port mapping; environment variable management; systemd integration; DNS-enabled container networks; scriots/database initialization; secure remote container registries; CLI
+- **Skills:** persistent storage for containerized applications; rootless detached container creation/management; host/containerized service port mapping; environment variable management; systemd integration; DNS-enabled container networks; scripts/database initialization; secure remote container registries; CLI
 
 ---
 
