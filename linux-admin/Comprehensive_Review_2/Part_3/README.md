@@ -18,7 +18,7 @@
 
 ## Tools / Skills Used
 - **Tools:** RHEL
-- **Skills:** SSH jet-based authentication; firewall management; SElinux administration; NFS configuration; web service troubleshooting; directory management; CLI
+- **Skills:** SSH key-based authentication; firewall management; SElinux administration; NFS configuration; web service troubleshooting; directory management; CLI
 
 ---
 
